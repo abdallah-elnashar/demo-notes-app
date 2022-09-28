@@ -1,4 +1,6 @@
 const config = {
+  STRIPE_KEY:
+    "pk_test_51LmNq0AqcwyzDcooEHppWZbK5WDifLVQwCs2Bk3h9PqhrC7D30L99pu0VINhrd2etuI8IwX1lqCozW3sbR0oOAko00jgulhOCe",
   // Backend config
   s3: {
     REGION: process.env.REACT_APP_REGION,
